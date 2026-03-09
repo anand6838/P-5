@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <htm>
+<head>
+<title> Practical 5 </title>
+</head>
+<h1 align = "center">
+    Resume
+</h1>
+
+<h2>Anand kumar</h2><img src="anand.jpeg" align="right" height="150" width="150">
+<h3>email:anandk.cse25@sbjit.edu.in</h3>
+
+
+<body>
+
+
+<h1>Educational Qualification</h1>
+
+<hr>
+
+<table border="1" cellpadding="10">
+<tr>
+<th>Sr No</th>
+<th>Qualification</th>
+<th>Board / University</th>
+<th>Year</th>
+<th>Percentage</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td>10th</td>
+<td>JKBose</td>
+<td>2021</td>
+<td>80%</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>12th</td>
+<td>JKBose</td>
+<td>2023</td>
+<td>80%</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>B.Tech</td>
+<td>SB Jain Institute of Technology (SBJIT)</td>
+<td>2029</td>
+<td>---</td>
+</tr>
+
+</table>
+
+<h2>Skills</h2>
+<ul>
+<li>HTML</li>
+<li>Basic C Programming</li>
+<li>Communication Skills</li>
+<li>Problem Solving</li>
+</ul>
+
+<h2>Experience</h2>
+<p>Fresher</p>
+
+<h2>Internship</h2>
+<p>None</p>
+
+<h2>Personal Details</h2>
+<p>Name: Anand Kumar</p>
+<p>Date of Birth: 20/03/2008</p>
+<p>Address: Jammu, Jammu & Kashmir</p>
+
+<br><br>
+<p><b>Signature</b></p>
+</body>
+</html>
