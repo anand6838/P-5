@@ -8,7 +8,7 @@
 </h1>
 <h3>Name = Anand kumar</h2><img src="anand.jpeg" align="right" height="100" width="100">
 <h3>Email = anandk.cse25@sbjit.edu.in</h3>
-<h1>Educational Qualification</h1>
+<h1>Educational Qualification:</h1>
 <hr>
 <table border="1" cellpadding="10">
 <tr>
@@ -40,18 +40,18 @@
 <td>9.5 SGPA</td>
 </tr>
 </table>
-<h2>Skills</h2>
+<h2>Skills:</h2>
 <ul>
 <li>HTML</li>
 <li>Basic C Programming</li>
 <li>Communication Skills</li>
 <li>Problem Solving</li>
 </ul>
-<h2>Experience</h2>
+<h2>Experience:</h2>
 <p>Fresher</p>
-<h2>Internship</h2>
+<h2>Internship:</h2>
 <p>None</p>
-<h2>Personal Details</h2>
+<h2>Personal Details:</h2>
 <p>Name: Anand Kumar</p>
 <p>Date of Birth: 20/03/2008</p>
 <p>Address: Jammu, Jammu & Kashmir</p>
